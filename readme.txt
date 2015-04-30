@@ -1,13 +1,15 @@
-# Yourls Link Creator Bulk Generate #
-**Contributors:**      Dustin Filippini
-**Donate link:**       http://webdevstudios.com
-**Tags:**
-**Requires at least:** 3.6.0
-**Tested up to:**      3.6.0
-**Stable tag:**        1.0.0
-**License:**           GPLv2
+=== Yourls Link Creator Bulk Generate ===
+Contributors:     dustyf
+Donate link:       http://dustyf.com
+Tags:
+Requires at least: 3.6.0
+Tested up to:      3.6.0
+Stable tag:        1.0.0
+License:           GPLv2
+License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
-## Description ##
+
+== Description ==
 
 Bulk generate Yourls URLS when using the Yourls Link Creator plugin.
 
@@ -15,14 +17,19 @@ Did you set up a Yourls install and integrate it in with your WordPress site?  I
 
 This plugin requires [Yourls Link Creator](https://wordpress.org/plugins/yourls-link-creator/) by Norcross and an installation of the [Yourls URL shortener](http://yourls.org).  Please install, activate, and configure these before using.
 
-## Installation ##
+== Installation ==
 
-### Manual Installation ###
+= Manual Installation =
 
 1. Upload the entire `/yourls-link-creator-bulk-generate` directory to the `/wp-content/plugins/` directory.
 2. Activate Yourls Link Creator Bulk Generate through the 'Plugins' menu in WordPress.
 
-## Changelog ##
+== Changelog ==
 
-### 1.0.0 ###
+= 1.0.0 =
 * First release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+First Release
