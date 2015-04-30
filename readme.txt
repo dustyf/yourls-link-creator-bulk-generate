@@ -8,6 +8,8 @@ Stable tag:        1.0.0
 License:           GPLv2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
+Bulk generate Yourls URLS when using the Yourls Link Creator plugin.
+
 
 == Description ==
 
