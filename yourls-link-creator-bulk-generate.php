@@ -117,8 +117,6 @@ class Yourls_Link_Creator_Bulk_Generate {
 	 * @return null
 	 */
 	public function init() {
-			$locale = apply_filters( 'plugin_locale', get_locale(), 'yourls-link-creator-bulk-generate' );
-			load_textdomain( 'yourls-link-creator-bulk-generate', WP_LANG_DIR . '/yourls-link-creator-bulk-generate/yourls-link-creator-bulk-generate-' . $locale . '.mo' );
 			load_plugin_textdomain( 'yourls-link-creator-bulk-generate', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 	}
 
